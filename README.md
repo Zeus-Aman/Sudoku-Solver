@@ -1,3 +1,4 @@
 # Sudoku-Solver
-This is C++ based project used to solve sudoku by using backtracking algorithm .
-Time comnmplexity if this is lesser then the naive approach.
+This project is based on Backtracking Algorithm and is used to solve
+sudoku with lesser complexity than naive approach. It is c++ based
+project.
